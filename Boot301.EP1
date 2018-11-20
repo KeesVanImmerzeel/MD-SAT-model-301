@@ -1,0 +1,24 @@
+************* EParray[ 1 ]: TestFile **********
+1             Aantal tijdsonafhankelijke tabellen: (=xInDep)
+0             ***table 0: table-type 0 (no interpolation) 
+1 1           rows, columns UITVOERTIJDSTIPPEN (jr)
+0 2 3 4 5
+6             Aantal tijdsafhankelijk (xy)-tabellen (=xDep)******************
+0             table 0: table-type 0 (no interpolation)
+1             RP1 (fl1): waarde uit ado-set in 1-ste *.flo-bestand
+0 3
+0             table 1: table-type 0 (no interpolation)
+1             RP2 (fl2): waarde uit ado-set in 2-ste *.flo-bestand
+0 4160
+0             table 2: table-type 0 (no interpolation)
+1             RP3 (fl3): waarde uit ado-set in 3-ste *.flo-bestand
+0 1
+0             table 3: table-type 0 (no interpolation)
+1             RP4 (fl4): waarde uit ado-set in 4-ste *.flo-bestand
+0 1
+0             table 4: table-type 0 (no interpolation)
+1             RP5 (fl5): waarde uit ado-set in 5-ste *.flo-bestand
+0 1
+0             table 5: table-type 0 (no interpolation)
+1             RP6 (key): sleutel-waarde (1-5).
+0 1
